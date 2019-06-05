@@ -1,7 +1,7 @@
 # Project_Python_pygame
 I made a game with "Python - pygame".
 
-> [File / Folder List]
+> **[File / Folder List]**
 >1. (Folder) Explorer - Tutorial  
 >>1. (File) Dot_Effect_Bang1.png
 >>2. (File) Dot_GameOver.png
