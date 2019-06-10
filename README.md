@@ -9,3 +9,10 @@ I made a game with "Python - pygame".
 >>    - (File) Dot_Plane2.png
 >>    - (File) Dot_Plane2_Fly.png
 >>    - (File) Explorer - Tutorial.py
+>
+>>2. (Folder) Mine Swipper - Tutorial
+>>    - (File) Dot_Flag.png
+>>    - (File) Mine.png
+>>    - (File) Mine_Bang.png
+>>    - (File) Mine_Sweeper_Icon_BigSize.png
+>>    - (File) Mine Sweeper - Tutorial.py
