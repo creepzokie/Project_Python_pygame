@@ -10,7 +10,7 @@ I made a game with "Python - pygame".
 >>    - (File) Dot_Plane2_Fly.png
 >>    - (File) Explorer - Tutorial.py
 >
->>2. (Folder) Mine Swipper - Tutorial
+>>2. (Folder) Mine Sweeper - Tutorial
 >>    - (File) Dot_Flag.png
 >>    - (File) Mine.png
 >>    - (File) Mine_Bang.png
