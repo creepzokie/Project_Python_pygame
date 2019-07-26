@@ -16,3 +16,12 @@ I made a game with "Python - pygame".
 >>    - (File) Mine_Bang.png
 >>    - (File) Mine_Sweeper_Icon_BigSize.png
 >>    - (File) Mine Sweeper - Tutorial.py
+>
+>>3. (Folder) Panda Run - Tutorial
+>>    - (File) background.png
+>>    - (File) move_1.png
+>>    - (File) move_2.png
+>>    - (File) obstacle.png
+>>    - (File) Panda_Run_IconImage.png
+>>    - (File) stand.png
+>>    - (File) Panda_Run_Final.py
